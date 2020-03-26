@@ -1,4 +1,4 @@
-def speak_to_grandma
+def speak_to_grandma(phrase)
 if phrase.upcase
   puts
   elsif "HUH?! SPEAK  UP, SONNY!"
