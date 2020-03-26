@@ -8,8 +8,9 @@ elsif phrase.downcase
 elsif phrase.upcase
   puts "NO, NOT SINCE 1938!"
 else 
+  puts "NO, NOT SINCE 1938!"
+  end 
 end
-
 
 # Write a speak_to_grandma method.
 
