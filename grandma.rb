@@ -1,5 +1,6 @@
-if 
-  elsif
+def speak_to_grandma
+if speak_to_grandma(phrase.upcase)
+  elsif "HUH?! SPEAK  UP, SONNY!"
 else
 end
 
