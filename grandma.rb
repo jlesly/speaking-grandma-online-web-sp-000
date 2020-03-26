@@ -4,8 +4,9 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase.downcase
   puts "HUH?! SPEAK UP, SONNY!"
 elsif phrase.downcase
-
- 
+  puts "HUH?! SPEAK UP, SONNY!"
+elsif phrase.upcase
+  puts "NO, NOT SINCE 1938!"
 end
 
 
