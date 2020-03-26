@@ -3,8 +3,8 @@ if phrase != phrase.upcase
   puts "HUH?! SPEAK UP, SONNY!"
   elsif phrase.upcase
   puts "NO, NOT SINCE 1938!"
+  end
 end
-
 
 
 # Write a speak_to_grandma method.
